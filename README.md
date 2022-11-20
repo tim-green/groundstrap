@@ -5,7 +5,7 @@ WP Requires at least: 5.0
 WP Tested up to: 5.7.2
 Requires PHP: 5.2
 
-## == Description ==
+## Description
 Groundstrap is based on the Understrap framework by . It’s been changed to suit my own needs like a major change in folder structure in a framework. If you come across this framework and wanting to use it, you can. 
 
 Please note that this framework has major changes to it.  I would highly recommend that you use the Understrap if you want a good framework.
